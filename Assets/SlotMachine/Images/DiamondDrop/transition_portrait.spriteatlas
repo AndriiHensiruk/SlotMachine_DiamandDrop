@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: transition_portrait
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9f54d181363d0c24b929914e786b15ff, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cef1c5403e0fdf74aa15cd754c33dbae, type: 3}
+  - {fileID: 21300000, guid: f4b019506a9f4e246b31b0d7f60c2239, type: 3}
+  - {fileID: 21300000, guid: 77f4f290df05c974a93cc13f291a53e1, type: 3}
+  - {fileID: 21300000, guid: a690f9d07c21bde41996bd8bf51d3352, type: 3}
+  - {fileID: 21300000, guid: f1353d01f74030248a16e986c66bba98, type: 3}
+  - {fileID: 21300000, guid: 62ae3f011bbbcda4a86f06f1d0f1e20e, type: 3}
+  - {fileID: 21300000, guid: ec961251002856148a3bb92321e70228, type: 3}
+  - {fileID: 21300000, guid: 56eada81af9fb4a408bfc0f4898bcef9, type: 3}
+  - {fileID: 21300000, guid: 9d70cca102912d04ea2ae575310594f1, type: 3}
+  - {fileID: 21300000, guid: a05c57e10ed2da845befaaff90d2e023, type: 3}
+  - {fileID: 21300000, guid: 5b68c612be51bbf439e3039060e01729, type: 3}
+  - {fileID: 21300000, guid: 364188226ad12c443916c974b271bf84, type: 3}
+  - {fileID: 21300000, guid: 50abbd22875f73a4cab50b7086bdf1e1, type: 3}
+  - {fileID: 21300000, guid: b53b9dc2075e96e449b880ec2d4de2cd, type: 3}
+  - {fileID: 21300000, guid: 9178270385744954885cc2813424fc8c, type: 3}
+  - {fileID: 21300000, guid: 7b202033f80451e48ba5f1ec0c772413, type: 3}
+  - {fileID: 21300000, guid: 4f6d93a36f66a3349a329185046b36a5, type: 3}
+  - {fileID: 21300000, guid: 60b8f8c374caec34c8876877113e4f35, type: 3}
+  - {fileID: 21300000, guid: ff5448d3aae81fe498e0a8adbe9d6457, type: 3}
+  - {fileID: 21300000, guid: 472cf0f33e2181e4cbed8272a636c103, type: 3}
+  - {fileID: 21300000, guid: c22d3c14ffaa25642aff920c8b0db0be, type: 3}
+  - {fileID: 21300000, guid: 30736d1415fbac24a867774753a0b8f6, type: 3}
+  - {fileID: 21300000, guid: b7c06324fff3142478613c0b90b2ff45, type: 3}
+  - {fileID: 21300000, guid: fbe3e494ed8889b42a1e546244b7e0c5, type: 3}
+  - {fileID: 21300000, guid: 9dd51dc4002419040a81fb419e6ce2ea, type: 3}
+  - {fileID: 21300000, guid: 3fd8f8350cb22274192c6416f54ac385, type: 3}
+  - {fileID: 21300000, guid: 32deb845ec1024c48989a609413c07c9, type: 3}
+  - {fileID: 21300000, guid: 3f983a8550bc76f4b981fced85d3f328, type: 3}
+  - {fileID: 21300000, guid: fb119695e86ee9c45b5b89a9ba7f74e7, type: 3}
+  - {fileID: 21300000, guid: 16c26a951e0b61940a109dedf4b7fa53, type: 3}
+  - {fileID: 21300000, guid: 05c339a5e14dcff4294d00843d516f34, type: 3}
+  - {fileID: 21300000, guid: 4f441326df1f38948b1a91013ffb7f39, type: 3}
+  - {fileID: 21300000, guid: 3e47f4861e7c4c848819e282795e9e69, type: 3}
+  - {fileID: 21300000, guid: 7b5f63b6433066046b0113f5c525c06d, type: 3}
+  - {fileID: 21300000, guid: 33849dc6517222b498032208db6a5d2f, type: 3}
+  - {fileID: 21300000, guid: 9885b747e37b9584184b16b91d61267f, type: 3}
+  - {fileID: 21300000, guid: 5ea6a25762e41e443a687f2d10c2de59, type: 3}
+  - {fileID: 21300000, guid: e344e8771e28d044588f6fb87cefa4b3, type: 3}
+  - {fileID: 21300000, guid: 144a5087706068e43a67aabf4ee53f08, type: 3}
+  - {fileID: 21300000, guid: b71059c74c43e2149a45d580108e92d3, type: 3}
+  - {fileID: 21300000, guid: 4de425e726dd632488e6aa587f2a93f4, type: 3}
+  - {fileID: 21300000, guid: 42058f180c18a99499c766410e60f4ab, type: 3}
+  - {fileID: 21300000, guid: c1209f383b3a57b4890039345ad6d65d, type: 3}
+  - {fileID: 21300000, guid: d62a718880ef93d4485590f8283d52db, type: 3}
+  - {fileID: 21300000, guid: 640b67e8d02ab9747a98863d50b779d2, type: 3}
+  - {fileID: 21300000, guid: a967c81986a669b4c8b458573877ea99, type: 3}
+  - {fileID: 21300000, guid: edb2e4c9d0404354ebafd268e49a4532, type: 3}
+  - {fileID: 21300000, guid: da0eebc9e2dc1d44c92704d727d223cf, type: 3}
+  - {fileID: 21300000, guid: 4cf201e962bc4884fbf4abc9936c0fb3, type: 3}
+  - {fileID: 21300000, guid: f1d3d9f92ded6b54f9020e56d302f4a5, type: 3}
+  - {fileID: 21300000, guid: 05af9bf900900914bb5952e99f3a1d87, type: 3}
+  - {fileID: 21300000, guid: 78b0f72a211390641a7b3ced9bd7a12f, type: 3}
+  - {fileID: 21300000, guid: 6a11493ae26123748a0e0ef42f63a8d9, type: 3}
+  - {fileID: 21300000, guid: 0341577ae39cf9441a0efbd6ce4f8c44, type: 3}
+  - {fileID: 21300000, guid: 3b3a3cba327701345b9557a584653943, type: 3}
+  - {fileID: 21300000, guid: ca8945ca578829e469342408a5edc6f6, type: 3}
+  - {fileID: 21300000, guid: ef3d6a0bc65aaa649a1ba4ac638dc197, type: 3}
+  - {fileID: 21300000, guid: dc879d3b5631ce74bac7575395218899, type: 3}
+  - {fileID: 21300000, guid: 792cf90c1f05e964c9cb5eb65361c9a1, type: 3}
+  - {fileID: 21300000, guid: 4648751c8bddca946bbbc3799dd505cc, type: 3}
+  - {fileID: 21300000, guid: 4f32f55cf4f3cd1448231e8131b7d244, type: 3}
+  - {fileID: 21300000, guid: a3239c6c304a87e4e8baa2d59e5bcf3c, type: 3}
+  - {fileID: 21300000, guid: 87090c8c954041f41a49b9150f4bc5db, type: 3}
+  - {fileID: 21300000, guid: e3f2bc8c8bfef6442ad0863c26b1ccb5, type: 3}
+  - {fileID: 21300000, guid: 2ba720ac99c36ca4389c5e9883f9ad40, type: 3}
+  - {fileID: 21300000, guid: 56409dac9ecf14244a006920509bfa2b, type: 3}
+  - {fileID: 21300000, guid: eb2db45d62f21d441b93f9520604b71d, type: 3}
+  - {fileID: 21300000, guid: 72f10b9d63e4d8844ba106a13b4aa4e5, type: 3}
+  - {fileID: 21300000, guid: 5244ccbddde57b643a2a42368ba13271, type: 3}
+  - {fileID: 21300000, guid: 79cf2a3ea2afadf4bb94243350329367, type: 3}
+  - {fileID: 21300000, guid: 3fce664e84a853c44a040c44cc201be5, type: 3}
+  - {fileID: 21300000, guid: af91e08e0fb5bba468f0ab8704f6f70e, type: 3}
+  - {fileID: 21300000, guid: 06845dee0016dea43a5b19ec45e00c78, type: 3}
+  - {fileID: 21300000, guid: 91ff68feff6e5c6409c8c3d87d5ed548, type: 3}
+  - {fileID: 21300000, guid: 7340706f81af01d4480220eec10c06f9, type: 3}
+  - {fileID: 21300000, guid: 7dfac1cfc16e6c345a5ad446c8e3a3b7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Transition_Landscape_1920x2160_00027
+  - Transition_Landscape_1920x2160_00049
+  - Transition_Landscape_1920x2160_00002
+  - Transition_Landscape_1920x2160_00053
+  - Transition_Landscape_1920x2160_00038
+  - Transition_Landscape_1920x2160_00011
+  - Transition_Landscape_1920x2160_00046
+  - Transition_Landscape_1920x2160_00026
+  - Transition_Landscape_1920x2160_00069
+  - Transition_Landscape_1920x2160_00061
+  - Transition_Landscape_1920x2160_00040
+  - Transition_Landscape_1920x2160_00023
+  - Transition_Landscape_1920x2160_00075
+  - Transition_Landscape_1920x2160_00035
+  - Transition_Landscape_1920x2160_00007
+  - Transition_Landscape_1920x2160_00019
+  - Transition_Landscape_1920x2160_00047
+  - Transition_Landscape_1920x2160_00013
+  - Transition_Landscape_1920x2160_00009
+  - Transition_Landscape_1920x2160_00022
+  - Transition_Landscape_1920x2160_00065
+  - Transition_Landscape_1920x2160_00032
+  - Transition_Landscape_1920x2160_00001
+  - Transition_Landscape_1920x2160_00000
+  - Transition_Landscape_1920x2160_00028
+  - Transition_Landscape_1920x2160_00068
+  - Transition_Landscape_1920x2160_00021
+  - Transition_Landscape_1920x2160_00025
+  - Transition_Landscape_1920x2160_00059
+  - Transition_Landscape_1920x2160_00039
+  - Transition_Landscape_1920x2160_00070
+  - Transition_Landscape_1920x2160_00033
+  - Transition_Landscape_1920x2160_00048
+  - Transition_Landscape_1920x2160_00062
+  - Transition_Landscape_1920x2160_00064
+  - Transition_Landscape_1920x2160_00003
+  - Transition_Landscape_1920x2160_00006
+  - Transition_Landscape_1920x2160_00067
+  - Transition_Landscape_1920x2160_00050
+  - Transition_Landscape_1920x2160_00005
+  - Transition_Landscape_1920x2160_00010
+  - Transition_Landscape_1920x2160_00072
+  - Transition_Landscape_1920x2160_00031
+  - Transition_Landscape_1920x2160_00024
+  - Transition_Landscape_1920x2160_00037
+  - Transition_Landscape_1920x2160_00042
+  - Transition_Landscape_1920x2160_00044
+  - Transition_Landscape_1920x2160_00051
+  - Transition_Landscape_1920x2160_00055
+  - Transition_Landscape_1920x2160_00058
+  - Transition_Landscape_1920x2160_00041
+  - Transition_Landscape_1920x2160_00060
+  - Transition_Landscape_1920x2160_00029
+  - Transition_Landscape_1920x2160_00014
+  - Transition_Landscape_1920x2160_00052
+  - Transition_Landscape_1920x2160_00004
+  - Transition_Landscape_1920x2160_00045
+  - Transition_Landscape_1920x2160_00066
+  - Transition_Landscape_1920x2160_00018
+  - Transition_Landscape_1920x2160_00073
+  - Transition_Landscape_1920x2160_00030
+  - Transition_Landscape_1920x2160_00057
+  - Transition_Landscape_1920x2160_00056
+  - Transition_Landscape_1920x2160_00074
+  - Transition_Landscape_1920x2160_00071
+  - Transition_Landscape_1920x2160_00063
+  - Transition_Landscape_1920x2160_00054
+  - Transition_Landscape_1920x2160_00012
+  - Transition_Landscape_1920x2160_00020
+  - Transition_Landscape_1920x2160_00008
+  - Transition_Landscape_1920x2160_00017
+  - Transition_Landscape_1920x2160_00016
+  - Transition_Landscape_1920x2160_00034
+  - Transition_Landscape_1920x2160_00036
+  - Transition_Landscape_1920x2160_00015
+  - Transition_Landscape_1920x2160_00043
+  m_RenderDataMap: {}
+  m_Tag: transition_portrait
+  m_IsVariant: 0

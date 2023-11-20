@@ -1,0 +1,26 @@
+<font>
+	<info face="C:\Users\Emily\2by2 Gaming Dropbox\Jordan Lewers\JLEWERS\Diamond Drop (Abstract Theme)\Images\1234567890.,$-export" size="130" />
+	<common lineHeight="130" scaleW="262" scaleH="261" pages="1" />
+	<pages>
+		<page id="0" file="C:\Users\Emily\2by2 Gaming Dropbox\Jordan Lewers\JLEWERS\Diamond Drop (Abstract Theme)\Images\1234567890.,$-export.png" />
+	</pages>
+	<chars count="18">
+		<char id="49" x="198" y="146" width="53" height="72" xoffset="0" yoffset="57" xadvance="131" /><!-- 1 -->
+		<char id="50" x="133" y="74" width="64" height="73" xoffset="0" yoffset="57" xadvance="142" /><!-- 2 -->
+		<char id="51" x="67" y="86" width="65" height="74" xoffset="0" yoffset="56" xadvance="143" /><!-- 3 -->
+		<char id="52" x="67" y="161" width="65" height="72" xoffset="0" yoffset="57" xadvance="143" /><!-- 4 -->
+		<char id="53" x="135" y="0" width="63" height="72" xoffset="0" yoffset="57" xadvance="141" /><!-- 5 -->
+		<char id="54" x="69" y="0" width="65" height="73" xoffset="0" yoffset="57" xadvance="143" /><!-- 6 -->
+		<char id="55" x="198" y="73" width="63" height="72" xoffset="0" yoffset="57" xadvance="141" /><!-- 7 -->
+		<char id="56" x="0" y="162" width="66" height="74" xoffset="0" yoffset="57" xadvance="144" /><!-- 8 -->
+		<char id="57" x="133" y="148" width="64" height="73" xoffset="0" yoffset="57" xadvance="142" /><!-- 9 -->
+		<char id="48" x="0" y="86" width="66" height="75" xoffset="0" yoffset="56" xadvance="144" /><!-- 0 -->
+		<char id="46" x="198" y="219" width="41" height="41" xoffset="0" yoffset="89" xadvance="119" /><!-- . -->
+		<char id="44" x="199" y="0" width="41" height="48" xoffset="0" yoffset="89" xadvance="119" /><!-- , -->
+		<char id="36" x="0" y="0" width="68" height="85" xoffset="0" yoffset="50" xadvance="146" /><!-- $ -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="543" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="4344" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
